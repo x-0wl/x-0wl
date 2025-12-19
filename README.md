@@ -3,7 +3,7 @@ Systems Engineering student passionate about pentesting, cybersecurity, and tech
 Thanks for stopping by!
 
 ```toml
-alias = "PwnXndr"
+alias = "0wl"
 
 [self]
 age = 21
@@ -14,7 +14,7 @@ most_used = "Java"
 
 [os]
 kernel = "linux"
-flavor = "Kali"
+flavor = "arch"
 ```
 ## Skills
 
