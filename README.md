@@ -1,3 +1,5 @@
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&weight=100&duration=2000&pause=500&color=09F79D&width=435&lines=hallo%2C+ich+bin+0wl;currently%3A+studying+cybersec;currently%3A+hacking;currently%3A+making+a+game)](https://git.io/typing-svg)
+
 Systems Engineering student passionate about pentesting, cybersecurity, and tech in general. Always learning.
 
 Thanks for stopping by!
